@@ -1,0 +1,22 @@
+/* Este sera la hoja de estilos unica del header*/
+
+header {
+    background-color: #533f42;
+    color: #ece0c7; /* Para que el texto contraste */
+    padding: 20px;
+    text-align: center;
+}
+
+
+/* logo */
+.logo_header {
+    width: 33%; /* Cambia el tamaño */
+    height: auto; /* Mantiene las proporciones */
+    display: block; /* Hace que se comporte como un bloque */   
+}
+
+.titulo_header {
+    font-size: auto;
+    display: inline-table;
+    margin: 0 auto;
+}
